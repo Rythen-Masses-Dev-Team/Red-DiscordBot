@@ -1,7 +1,13 @@
 # RedBot - A fully customizable Discord bot
 ## Forked From Red Discord Bot
-#### *Music, admin, trivia, fun commands and much more!*
-[<img src="https://img.shields.io/badge/Support-me!-orange.svg">](https://www.patreon.com/Twentysix26)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/0k4npTwMvTpv9wrh)  
+#### *Music, admin, trivia, fun commands and much more!
+
+
+###Plus the Following Cods 
+from the following authora. + Link:
+
+[Thanks to CalebJ for the CalebJ-cods Repo](https://github.com/neonobjclash/calebj-cogs "Calebj-Cobs")
+
 
 Redbot is a fully modular bot which comes with sets of features/commands that can be enabled/disabled to your liking, making it customizable exactly how you want.  
 You can turn RedBot into a trivia bot, an admin bot, a music bot (...) or all of these together.  
