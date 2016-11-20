@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @echo off
 chcp 65001
 echo.
@@ -35,3 +36,12 @@ echo https://twentysix26.github.io/Red-Docs/red_win_requirements/#software
 PAUSE
 
 :end
+=======
+@Echo off
+:Start
+
+python red.py
+timeout 2
+
+goto Start
+>>>>>>> 974aa717590c69f6bda14d598ec908db86861ee4
