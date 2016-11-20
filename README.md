@@ -2,6 +2,12 @@
 ## Forked From Red Discord Bot
 #### *Music, admin, trivia, fun commands and much more!
 
+
+###Plus the Following Cods 
+from the following authora. + Link:
+
+
+
 Redbot is a fully modular bot which comes with sets of features/commands that can be enabled/disabled to your liking, making it customizable exactly how you want.  
 You can turn RedBot into a trivia bot, an admin bot, a music bot (...) or all of these together.  
 
