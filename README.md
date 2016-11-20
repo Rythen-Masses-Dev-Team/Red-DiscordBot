@@ -6,7 +6,7 @@
 ###Plus the Following Cods 
 from the following authora. + Link:
 
-[Thanks to CalebJ](https://github.com/neonobjclash/calebj-cogs "Calebj-Cobs")
+[Thanks to CalebJ for the CalebJ-cods Repo](https://github.com/neonobjclash/calebj-cogs "Calebj-Cobs")
 
 
 Redbot is a fully modular bot which comes with sets of features/commands that can be enabled/disabled to your liking, making it customizable exactly how you want.  
