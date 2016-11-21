@@ -4,7 +4,7 @@
 
 
 ###Plus the Following Cods 
-from the following authora. + Link:
+from the following authors. + Link:
 
 [Thanks to CalebJ for the CalebJ-cods Repo](https://github.com/neonobjclash/calebj-cogs "Calebj-Cobs")
 
